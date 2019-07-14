@@ -17,7 +17,7 @@ public class CalculatorTest {
     public void addSumsCorrectly() throws Exception {
         int result = calc.add(1, 2);
 
-        assertEquals(3, result);
+        assertEquals(4, result);
     }
 
     @Test
